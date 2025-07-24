@@ -100,6 +100,6 @@
 
 If you have any questions, need support, or want to give feedback, please get in touch with us:
 
-- Website: [RenewIt Infomational WEbsite](https://superlative-hummingbird-95917d.netlify.app/)  
+- Website: [RenewIt Infomational Website](https://superlative-hummingbird-95917d.netlify.app/)  
 - Email: [Support Email](renewit@gmail.com)  
 
