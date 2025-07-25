@@ -101,8 +101,6 @@
 
 - [RenewIt Assets Folder](https://drive.google.com/drive/u/0/folders/1TSoRtT_rxy0cm4X3Hvf23NVgLtstmh74)
 
-*(Make sure the Google Drive folder permissions allow your audience to access it without issues.)*
-
 # Frequently Asked Questions (FAQ)
 
 ## Table of Contents
