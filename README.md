@@ -199,14 +199,6 @@ Initial public release of the RenewIt platform featuring:
 - Dedicated dashboards for Upcyclers and Traders.  
 - Secure communication channels and transaction tracking.
 
-## Stay Updated
-
-For the latest news, updates, and support, please visit our [RenewIt Informational Website](https://superlative-hummingbird-95917d.netlify.app/) or contact us at [renewit@gmail.com](renewit@gmail.com).
-
-
-
-
-
 
 ## Contact Us
 
