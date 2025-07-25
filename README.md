@@ -1,4 +1,4 @@
-# RenewIt Product Documentation
+# RenewIt
 
 ## Table of Contents
 
