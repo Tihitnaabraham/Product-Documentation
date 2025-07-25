@@ -18,10 +18,11 @@
   - [Receiving Payment via M-Pesa Prompt-to-Pay](#receiving-payment-via-m-pesa-prompt-to-pay)
   - [Manage Listings](#manage-listings)
   - [Contact Us](#contact-us)
+- [RenewIt Assets and Images](#renewit-assets-and-images)
 
 ## Introduction
 
-**RenewIt** is a sustainable upcycling platform connecting traders selling reclaimed materials with upcyclers requesting materials for creative repurposing. RenewIt simplifies submitting requests, automatic matching, communication, payment, and transaction completion to support circular economy efforts.
+**RenewIt** is a sustainable upcycling platform connecting traders selling reclaimed materials with upcyclers requesting materials for creative repurposing. RenewIt streamlines the process of submitting requests, automatic matching, communication, payment, and transaction completion to support circular economy initiatives.
 
 ## User Roles Overview
 
@@ -36,7 +37,7 @@
 
 ## Dashboard Overview
 
-- **Upcyclers:** Manage requests, create new requests, Upload there finished products and communicate with traders.  
+- **Upcyclers:** Manage requests, create new requests, upload their finished products, and communicate with traders.  
 - **Traders:** Manage listings, review requests, and communicate with upcyclers.
 
 ## Upcycler Guide
@@ -45,7 +46,7 @@
 
 1. Click **New Material Request**.  
 2. Enter material type, quantity, and preferred condition (e.g., gently used).  
-3. Provide detailed descriptions including size, color, texture.  
+3. Provide detailed descriptions including size, color, and texture.  
 4. Upload photos if available.  
 5. Submit the request.
 
@@ -57,8 +58,8 @@
 
 ### Dynamic Pricing Calculation
 
-- For quantity specified (e.g., 50kg), RenewIt calculates total price using their system per kilogram.  
-- Total price is shown before acceptance so you know exact cost.
+- For quantity specified (e.g., 50kg), RenewIt calculates the total price using their system per kilogram.  
+- The total price is shown before acceptance, so you know the exact cost.
 
 ### Completing Payment with M-Pesa Prompt-to-Pay
 
@@ -79,7 +80,7 @@
 1. Click **List Material**.  
 2. Enter material details: type, quantity, condition, description.  
 3. Upload photos to demonstrate quality.  
-4. Submit listing to make it visible to upcyclers.
+4. Submit the listing to make it visible to upcyclers.
 
 ### Responding to Requests
 
@@ -96,16 +97,20 @@
 - Update status when items sell or become unavailable.  
 - Edit listing details to maintain accuracy.
 
+## RenewIt Assets and Images
 
+- [RenewIt Assets Folder](https://drive.google.com/drive/u/0/folders/1TSoRtT_rxy0cm4X3Hvf23NVgLtstmh74)
+
+*(Make sure the Google Drive folder permissions allow your audience to access it without issues.)*
 
 # Frequently Asked Questions (FAQ)
 
 ## Table of Contents
 
-- [1. How do payments work on RenewIt?](#1-how-do-payments-work-on-renewit)
+- [1. How do payments work on RenewIt?](#1-how-do-payments-work-on-renit)
 - [2. How does the matching system operate?](#2-how-does-the-matching-system-operate)
 - [3. How is the total price calculated?](#3-how-is-the-total-price-calculated)
-- [4. How do I pay using M-Pesa on RenewIt?](#4-how-do-i-pay-using-m-pesa-on-renewit)
+- [4. How do I pay using M-Pesa on RenewIt?](#4-how-do-i-pay-using-m-pesa-on-renit)
 - [5. What is the M-Pesa prompt-to-pay process?](#5-what-is-the-m-pesa-prompt-to-pay-process)
 - [6. Is my payment secure?](#6-is-my-payment-secure)
 - [7. What happens if the payment fails?](#7-what-happens-if-the-payment-fails)
@@ -132,7 +137,7 @@ This improves efficiency by proactively showing relevant offers and reducing man
 ## 3. How is the total price calculated?
 
 The total price is dynamically calculated by RenewIt based on:  
-- The upcyclers’s required quantity per kilogram.  
+- The upcycler’s required quantity per kilogram.  
 - The quantity specified by the upcycler in their material request (e.g., 50 kg).  
 The system multiplies the unit price by the requested quantity to give an accurate total cost before the upcycler accepts the offer.
 
@@ -168,7 +173,6 @@ Prompt and clear communication ensures swift resolution of payment problems.
 - **Upcyclers:** You can cancel material requests that have not yet been matched or accepted by traders via the dashboard.  
 - **Traders:** You may remove or deactivate material listings at any time before a request is accepted.
 
-
 # RenewIt Product Updates & Versions
 
 This document tracks the development progress, updates, and version history of the RenewIt platform.
@@ -179,14 +183,13 @@ RenewIt began as a research-driven initiative focused on addressing challenges i
 
 The development life cycle included:
 
-- Conducting thorough research on second-hand clothes and the environmental and social issues related to waste at the Dandora dump.
-- Applying product management principles to define scope, target users, and workflows.
-- Designing intuitive user experiences and interfaces with detailed UX/UI mockups.
-- Architecting the system with database design, including Entity-Relationship Diagrams (ERD) and integrating AI agents for automatic material matching.
-- Developing the backend with APIs that power the core functionality of matching, payments, and notifications.
-- Building the frontend using Jetpack Compose for Android and React for Dashboards.
+- Conducting thorough research on second-hand clothes and the environmental and social issues related to waste at the Dandora dump.  
+- Applying product management principles to define scope, target users, and workflows.  
+- Designing intuitive user experiences and interfaces with detailed UX/UI mockups.  
+- Architecting the system with database design, including Entity-Relationship Diagrams (ERD) and integrating AI agents for automatic material matching.  
+- Developing the backend with APIs that power the core functionality of matching, payments, and notifications.  
+- Building the frontend using Jetpack Compose for Android and React for Dashboards.  
 - Testing, refining, and finalizing the product for public launch.
-
 
 ## Version History
 
@@ -199,11 +202,9 @@ Initial public release of the RenewIt platform featuring:
 - Dedicated dashboards for Upcyclers and Traders.  
 - Secure communication channels and transaction tracking.
 
-
 ## Contact Us
 
 If you have any questions, need support, or want to give feedback, please get in touch with us:
 
-- Website: [RenewIt Infomational Website](https://superlative-hummingbird-95917d.netlify.app/)  
-- Email: [Support Email](renewit@gmail.com)  
-
+- Website: [RenewIt Informational Website](https://superlative-hummingbird-95917d.netlify.app/)  
+- Email: [Support Email](mailto:renewit@gmail.com)
